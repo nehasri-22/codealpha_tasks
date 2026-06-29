@@ -45,6 +45,9 @@ while attempts_left > 0:
         print("❌ Wrong guess!")
         attempts_left -= 1
 # If player loses
+
+
 if attempts_left == 0:
     print("\n💀 Game Over! The word was:", word)
      neha
+added 1 line
