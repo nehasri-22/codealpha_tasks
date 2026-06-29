@@ -47,3 +47,4 @@ while attempts_left > 0:
 # If player loses
 if attempts_left == 0:
     print("\n💀 Game Over! The word was:", word)
+     neha
